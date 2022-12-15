@@ -10,7 +10,7 @@ import {
 } from 'framework7-react';
 
 const HomePage = () => (
-  <Page name="home">
+  <Page name='home'>
     {/* Top Navbar */}
     <Navbar large>
       <NavTitle>My App</NavTitle>
@@ -25,7 +25,6 @@ const HomePage = () => (
     <Block strong>
       <p>Here is your blank Framework7 app. Let's see what we have here.</p>
     </Block>
-
   </Page>
 );
 export default HomePage;

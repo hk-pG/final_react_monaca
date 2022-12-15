@@ -1,4 +1,3 @@
-
 import HomePage from '../pages/home.jsx';
 
 var routes = [
